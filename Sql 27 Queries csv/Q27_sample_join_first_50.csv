@@ -1,0 +1,51 @@
+code,product_name,brands,energy_kcal,sugars,sugar_to_carb_ratio,calorie_category,is_ultra_processed
+6111035000430,Sidi Ali,Sidi Ali,0.0,14.0,0.3333333333333333,Low,Yes
+6111242100992,Perly,Jaouda,97.0,4.1,0.4361702127659574,Low,No
+6111035002175,Sidi Ali,sidi ali,242.0,4.1,0.271523178807947,High,Yes
+6111035000058,Eau minérale naturelle,"Les Eaux Minérales d'oulmès,Sidi Ali",242.0,4.1,0.271523178807947,High,No
+6111252421568,اكوافينا,AQUAFINA,0.0,0.0,-1.0,Low,Yes
+6111266962187,Lait,Jaouda,45.0,0.0,0.0,Low,No
+3274080005003,Eau De Source,Cristaline,0.0,0.0,-1.0,Low,No
+6111246721261,Fromage blanc nature,MILKY FOOD PROFESSIONAL,80.6,0.0,0.0,Low,No
+6111242101180,uht jaouda 1L,Jaouda,58.0,0.0,0.0,Low,No
+6111242106949,Jben,Jaouda,235.0,0.0,0.0,High,Yes
+6111128000071,Ain Saïss,Danone,0.0,0.0,-1.0,Low,No
+6111035502828,Eau minéral naturelle,Ain atlas,0.0,0.0,-1.0,Low,Yes
+6111035000027,6111035000027,Sidi Ali,0.0,0.0,-1.0,Low,Yes
+50184453,Marmite Yeast Extract,"Marmite,Unilever",260.0,1.2,0.04,High,Yes
+6111242100985,Unknown,Jaouda,101.0,0.0,0.0,Moderate,No
+6111032009665,Lait Frais,centrale danone,45.0,0.0,0.0,Low,No
+6111099003897,Unknown,lilia,675.0,0.0,0.0,High,Yes
+5449000054227,Original Taste,Coca-Cola,42.0,10.6,1.0,Low,Yes
+6111252421582,اكوافينا,pepsi,0.0,0.0,-1.0,Low,No
+7622210449283,Prince Goût Chocolat,Lu,467.0,32.0,0.463768115942029,High,Yes
+3046920029759,Lindt Excellence 90%,Lindt&Sprüngli,592.0,2.0,0.14285714285714285,High,No
+3046920028004,Excellence 70% Cocoa Intense Dark,Lindt,566.0,30.0,0.8823529411764706,High,No
+6111035003035,Oulmes natural carbonated water,Les eaux minérales d'Oulmès S.A.,242.0,4.1,0.271523178807947,High,Yes
+3017620425035,Nutella,Ferrero,539.0,56.3,0.9791304347826086,High,Yes
+5449000147417,Orange juice,Coca cola,39.0,17.0,1.8279569892473118,Low,Yes
+6111031005064,Tonik,Bimo,116.0,9.2,0.5575757575757575,Moderate,No
+6111180000231,levure pâtisserie,Unknown,183.0,0.0,0.0,Moderate,Yes
+6111128000163,Ain Saiss Eau Minerale Naturelle,Danone,0.0,0.0,-1.0,Low,Yes
+3175680011480,Sésame,Gerblé,467.0,17.0,0.265625,High,Yes
+6111162000839,Confiture de fraise,Délicia,250.0,63.0,1.0272297407467796,High,No
+6111035001659,Ain Atlas,Eau minérale naturelle des Montagnes d'Atlas,242.0,4.1,0.271523178807947,High,Yes
+6111242100206,Yaourt nature,Jaouda,78.5,0.0,0.0,Low,No
+8410376009392,zero sin azúcares Fibra,Gullón,431.0,0.5,0.007692307692307693,High,Yes
+3046920028363,Excellence 85% Cacao Rich Dark,Lindt,584.0,14.0,0.6363636363636364,High,No
+6111035001635,Ain Atlas,Eau minérale naturelle,0.0,0.0,-1.0,Low,Yes
+6111184004129,Mayonnaise recette originale,Star,592.0,0.05,0.2272727272727273,High,Yes
+5025125000006,Sourdough White Ciabattin Bread,Jason’s,230.0,2.4,0.05442176870748299,High,No
+5411188112709,Geröstete Mandel Ohne Zucker,Alpro,15.0,0.0,-1.0,Low,Yes
+6111128000460,Unknown,aïn Saiss,242.0,4.1,0.271523178807947,High,No
+20995553,Chocolat noir - 85% cacao,J.D. Gross,579.0,12.9,0.602803738317757,High,Yes
+3268840001008,CRISTALINE Eau De Source 0.5L,Cristaline,0.0,4.1,-1.0,Low,No
+3017620422003,Nutella,Ferrero,539.0,56.3,0.9791304347826086,High,Yes
+5025125000112,The Great White Sourdough,Jason's,107.0,0.9,0.0430622009569378,Moderate,No
+20005733,Unknown,Alesto,712.0,3.0,0.8108108108108107,High,No
+5025125000037,Sourdough Grains & Seeds,Jason's,114.0,0.7,0.03626943005181347,Moderate,No
+6111203006653,Cheddar,la Hollandaise,270.0,6.0,1.0,High,Yes
+20724696,Mandeln,"Alesto,Lidl",621.0,4.67,1.0,High,No
+6111184001562,Star Branded Iodized Salt,Star,242.0,0.0,-1.0,High,No
+6111184004730,Ketchup star 310 g,Star,108.0,22.36,0.8700389105058366,Moderate,Yes
+6111029000118,Cosumar Sucre En Lingot Pour Le Thé 1 kg,COSUMAR,400.0,100.0,1.0,High,Yes
