@@ -49,3 +49,11 @@ Power BI (cards and categorical visualizations)
 👩‍💻 Author
 
 Anubriya Baskaran
+
+---
+
+### 📌 Note
+This project was developed as part of an academic program.
+The implementation, code structure, and documentation are original.
+Unauthorized reuse for academic submissions is discouraged.
+
